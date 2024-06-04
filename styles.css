@@ -1,4 +1,28 @@
 .profile-card {
+<<<<<<< HEAD
+  background-color: #f3f3f3;
+  border: 1px solid #ddd;
+  padding: 20px;
+  /* missing ':' */
+  text-align: center;
+}
+
+img {
+  width: 100px;
+  height: auto;
+  border-radius: 50%;
+}
+
+h1 {
+  color: #333;
+}
+
+p {
+  color: #555;
+  /* the font size missing 'p' for px*/
+  font-size: 16px;
+}
+=======
     background-color: #f3f3f3;
     border: 1px solid #ddd;
     padding: 20px;
@@ -21,3 +45,4 @@ p {
     /* 'p' was missing below for px */
     font-size: 16px;
 }
+>>>>>>> 39170b0b9a6b87e5aa9b3e0d6c895b9d5c3caa45
